@@ -12,7 +12,7 @@
                     xmlns:xsd="http://www.w3.org/2001/XMLSchema">
  
             <!--  <xsd:import namespace="http://ws-i.org/profiles/basic/1.1/xsd" />-->
-            <xsd:import namespace="http://ws-i.org/profiles/basic/1.1/xsd" schemaLocation="file:/Users/rahul.lakkapragada/Dev/Work/Workspace/MtomWebService/src/main/resources/ref.xsd" />
+            <xsd:import namespace="http://ws-i.org/profiles/basic/1.1/xsd" schemaLocation="file:/Users/username/Dev/Work/Workspace/MyWebService/src/main/resources/ref.xsd" />
             <xsd:complexType name="ClaimDetailType">
                 <xsd:sequence>
                     <xsd:element name="Name" type="xsd:string"/>
